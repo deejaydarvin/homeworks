@@ -1,0 +1,1 @@
+\newlabel{fig:task1}
